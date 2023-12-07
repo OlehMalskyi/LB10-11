@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+E:\Project\АП\LB10-11\LB11.3_A\LB11.3_A\LB11.3_A.cpp(157,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library E:\Project\АП\LB10-11\LB11.3_A\x64\Debug\UnitTest1.lib and object E:\Project\АП\LB10-11\LB11.3_A\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\Project\АП\LB10-11\LB11.3_A\x64\Debug\UnitTest1.dll
